@@ -1,0 +1,11 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    transform: rotate(45deg);
+}
+.container{
+    width: 100%;
+    height: 100px;
+    background-color: blue;
+}
